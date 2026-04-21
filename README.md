@@ -31,9 +31,7 @@ The solution combines **data analysis, machine learning, and business intelligen
 ## 🛠 Tools & Technologies
 
 * **SQL** – Data extraction and querying
-* **Python** – Data cleaning, EDA, and modeling
-
-  * Pandas, NumPy, Scikit-learn
+* **Python** – Data cleaning, EDA, and modeling, Pandas, NumPy, Scikit-learn
 * **Power BI** – Dashboard development and visualization
 
 ---
